@@ -2,7 +2,7 @@ import requests
 
 def get_trending_topic(field="AI in Retail"):
     query = f"{field} site:techcrunch.com OR site:wired.com OR site:forbes.com"
-    serp_api_key = "ddd5e6b8cb00731e880484963a56acc965bf86400b8a6e8de4ac05b8f667a3fa"
+    serp_api_key = "Your_api_key_here"
     
     url = "https://serpapi.com/search"
     params = {
