@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "linkedinautoposter-463406",
+  "private_key_id": "2f808b11e148c94004334903f1e2677cf4bd0f3f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBryzufabhTuEg\ncAEOyvPXgaG2OfRvFG37zr2DImLQPcuiZRnBtpj2INOoYbEYKIYiAmZNaH+pscQS\n6Z46DKLQrdauaCYvvSEilBWHm8Q5xrHBx3/hS2VLHPlu16JdLgAk/AFQIp30B+cU\n9xKMiv3UFIZchyOivPUPEtuh4sXI7viFZ9Vnnt/aLnwiF7ghTZdwprG5qiH4uRPL\nBSMfUSyuWNSjqu2r6ZFZwAkMPP+jOuyGgl5m91463RvWwKEF96u6rShcSLApmYbf\nTHDKUUWzBvps7nIBQhJdu+ET5FFjPT6Bi90UsaGNcvu6ygUqie3+q6prT5sAq8o1\n0ttoyeXxAgMBAAECggEAJPEYjNSCg+7bmahDS2MCZ1ReV7duG9G1uJWSJ/TjC/z9\nXhgSdZQyUJ+qPy+C66yvCMWUZadM0j0JvOG6QDAwzcSaceGDhw93xnSgNqFLKAnx\n1ZgLmBkdVNpN6QpP+Z3QgT1fsr0ni2gGd0U40H2iNFVF21gbP+rygtGB+rqaJty4\nOsIOZTWxc3YtGmC3Rhy14ba59M8Up2CnLWvF42nlb1NdLK/Jkh6Oo3ZIcwtqYr9K\nexujVukLrSWG5Akkd4Pi1f7E7wBdIzd5nuXjNrzAO2a30HBEjRaq/1dloTDUCq5k\nfloEWTS2VQEzQSrzua81p0zZlAcET2NNTRozN+aGEQKBgQD3GtAaMRi92tXKko1v\n0fLKUMJKvH5bHXSY+jf09y7Uj4YG9N5DDOCmJKLDzsEr2A9dTyAPgpHFGykFAGps\nHyQ4W8SUz3vzGrx98fdJ0KCB73K1MRNYZKBAC8c+yGzpPGcp3OxaSTGj+PbQEPlz\nx3+uZI/vfimuX4APNlv8oL9MAwKBgQDIqBFb34XqGrciw0a/HjP4qAfhYw7pNmru\nCNsz6Gehk97q2GUnwYVCAFbHtieVknJ6HSBP/KMmJSrfWGzOaAGv8/hTsrPABAmV\nCyldHJbRMhxbCrPCF/ANq8XWdz5Iimavs88NF4AAAKEHfPWT1NlGGqvkMjHLuvvL\nC8M2jn91+wKBgQCtGwyD/Lb/cYlpwubwWdzDHHYv0wKVo/nlnQyMQIl/ARh8URhP\nUnsiCPI5R+MNauvAi0jDdM3XjiJbTaJAIkTGcosxUHTdpnI7rMF25X8751mtUzbh\nKoUUuOuYsOGTNuxyaEDvMu1imGuW8P0/vZdVvT8UIIbkkCRvA77HKHk6rwKBgFby\nbMMwsihk9yI7F7bM8Zw3w2JouBdaGy+V6tYtSGp9VsTQi9SUSJf26aOUTMbFNJGx\neUTvpgprZI5vFIbEDqcdwmcSMk1r8nMA6SWNs9RmMF9K3eWm1cA2xH1QIk7wmdpc\nwcVcf3yAyUYjYY5zVsrH1+AD2Av9tAmhyS8kxBptAoGAR7UuLaNVyT9odyz/FNzw\nuqx9Zldr/b4dHd/uBsc+kc+8ORYpt4+jRE6hR2ZYqfpTSG3ndBn5xb5XRQmwHJA6\n7ZJdPtUjZkIox45pMxieFTgCFdbYKIbnLsIIt+VEHTgM6L7w44mLVDRDqM4K61eb\nSI2XaoD0/eP4LDqKbOr5OEI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "phantombuster-sheet-access@linkedinautoposter-463406.iam.gserviceaccount.com",
+  "client_id": "114355615893048089572",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/phantombuster-sheet-access%40linkedinautoposter-463406.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
